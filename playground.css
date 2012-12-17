@@ -1,4 +1,4 @@
-@import url("starter_defaults.css");
+@import url("http://grinnellplans.com/styles/starter_defaults.css");
 /**
  * (c) Cyrus Witthaus 2012
  *  - unabashadly built by looking at Ian Young's slate stylesheet 
@@ -10,7 +10,7 @@
  */
 /* Base font and color settings */
 body {
-  background-color: #262626;
+  background-color: #0F103B;
   font-family: "Trebuchet MS", Arial, sans-serif;
   margin-top: 0.2em; }
 
